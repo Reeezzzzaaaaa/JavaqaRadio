@@ -13,7 +13,7 @@ public class Radio {
         this.minVolume = min;
         this.maxVolume = max;
         this.minChannel = min;
-        this.maxChannel = max;
+        this.maxChannel = max;1
         this.currentVolume = minVolume;
         this.currentChannel = minChannel;
     }
