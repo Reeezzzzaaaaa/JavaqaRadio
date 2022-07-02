@@ -2,7 +2,7 @@ package ru.netology.radio;
 
 public class Radio {
 
-    private int maxVolume = 10;
+    private int maxVolume = 100;
     private int minVolume = 0;
     private int maxChannel = 9;
     private int minChannel = 0;
